@@ -1,6 +1,6 @@
 {
   "name": "px-app-nav",
-  "version": "1.9.6",
+  "version": "1.9.8",
   "main": [
     "px-app-nav.html"
   ],
@@ -34,7 +34,7 @@
     "px-demo-snippet": "^0.6.2",
     "px-toggle-design": "^0.2.12",
     "px-headings-design": "^0.2.14",
-    "px-actionable-text-icons-design": "^0.0.3",
+    "px-actionable-text-icons-design": "^0.1.0",
     "px-code-design": "^0.2.11",
     "px-list-inline-design": "^0.2.11",
     "px-buttons-design": "^0.4.26",
@@ -42,11 +42,11 @@
     "px-login": "~0.5.0"
   },
   "homepage": "https://github.com/PredixDev/px-app-nav",
-  "_release": "1.9.6",
+  "_release": "1.9.8",
   "_resolution": {
     "type": "version",
-    "tag": "v1.9.6",
-    "commit": "1fee3a6973520d947df7ed83c753e6ebb620b35a"
+    "tag": "v1.9.8",
+    "commit": "54459b315aa4bafca1c88c1a7ac8794d0157b77e"
   },
   "_source": "https://github.com/PredixDev/px-app-nav.git",
   "_target": "^1.5.2",
