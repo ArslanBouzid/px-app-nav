@@ -1,6 +1,6 @@
 {
   "name": "px-list-bare-design",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -33,11 +33,11 @@
     "px-sass-doc": "~0.2.4",
     "px-starter-kit-design": "~0.6.0"
   },
-  "_release": "0.2.15",
+  "_release": "0.2.16",
   "_resolution": {
     "type": "version",
-    "tag": "v0.2.15",
-    "commit": "12b9db26692ab1cbbb0005a59920a46da276b578"
+    "tag": "v0.2.16",
+    "commit": "cf304840a10d5b5e5eb7ad3e93733bbf1169f500"
   },
   "_source": "https://github.com/predixDev/px-list-bare-design.git",
   "_target": "^0.2.13",
