@@ -1,3 +1,20 @@
+
+v0.9.8
+==================
+* bower updating px-demo-snippet
+
+v0.9.7
+=================
+* rebuild css
+
+v0.9.6
+=================
+* updated dependencies
+
+v0.9.5
+=================
+* added style variables for theming
+
 v0.9.3
 =================
 * handle case were the tooltipParent is null

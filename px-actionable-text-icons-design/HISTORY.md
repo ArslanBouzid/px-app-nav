@@ -1,6 +1,31 @@
-v0.1.0
+
+v0.1.6
+==================
+* bower updating px-demo-snippet
+
+v0.1.5
+==================
+* added style variables for theming
+
+v0.1.4
+==================
+* bumping sassdoc to propogate clipboard changes
+
+v0.1.3
+==================
+* bumping all version of px-sass-doc to get px-clipboard update
+
+v0.1.2
+==================
+* patch test
+
+v0.1.1
 ==========================
-* Update to v0.1.x release branch to fix semver resolution of v0.0.x release branch
+* updated to px-sass-doc#0.2.8, updated to correct version
+
+v0.1.0
+ ==========================
+ * Update to v0.1.x release branch to fix semver resolution of v0.0.x release branch
 
 v0.0.8
 ==========================
@@ -31,6 +56,6 @@ v0.0.2
 ==========================
 * Added OSS notice and change the repo to be public in bower.
 
-v0.0.1
+v0.0.1g
 ==========================
 * Created px-actionable-text-icons-design for Predix Experience
