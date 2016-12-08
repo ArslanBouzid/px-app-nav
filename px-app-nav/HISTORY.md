@@ -1,3 +1,15 @@
+v1.9.21
+==================
+* moving px-polymer-font-awesome back to 0.1.x version.
+
+v1.9.20
+==================
+* updated dependencies
+
+v1.9.19
+==================
+* added missing font-awesome import
+
 v1.9.18
 ==================
 * changing all devDeps to ^

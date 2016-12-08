@@ -1,6 +1,6 @@
 {
   "name": "px-app-nav",
-  "version": "1.9.18",
+  "version": "1.9.21",
   "main": [
     "px-app-nav.html"
   ],
@@ -22,7 +22,7 @@
     "px-theme": "^2.0.1",
     "web-animations-js": "^2.2.2",
     "px-tooltip": "^0.9.0",
-    "px-polymer-font-awesome": "^0.1.9"
+    "px-polymer-font-awesome": "^0.1.11"
   },
   "devDependencies": {
     "px-list-bare-design": "^0.2.13",
@@ -42,11 +42,11 @@
     "px-login": "^0.5.0"
   },
   "homepage": "https://github.com/PredixDev/px-app-nav",
-  "_release": "1.9.18",
+  "_release": "1.9.21",
   "_resolution": {
     "type": "version",
-    "tag": "v1.9.18",
-    "commit": "ffa01d777b8b233685fa139f42c26818bdab638d"
+    "tag": "v1.9.21",
+    "commit": "88097c042512deb3776efc5168649a4c57174cb4"
   },
   "_source": "https://github.com/PredixDev/px-app-nav.git",
   "_target": "^1.5.2",
